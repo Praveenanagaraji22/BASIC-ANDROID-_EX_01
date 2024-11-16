@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
+
 ## OnCreate Executed:
 <img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="300">
 
@@ -135,8 +136,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OnStart Executed:
 <img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="300">
-
-
 
 
 ## RESULT:
